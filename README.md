@@ -1,5 +1,5 @@
 # MiniCooper Controlado por bluetooth y arduino UNO
-En este repositorio se encuentra el código para controlar un coche para niños de tipo mini cooper, el cual se automatiza con diferentes componentes electronicos como los son drivers (L298N) y un Modulo Bluetooth(HC-05), el proyecto fue presentado en la EXPROY 2024 por el cual fui acredor del segundo lugar en categoria IoT en la EXPROY 2024.
+En este repositorio se encuentra el código para controlar un coche para niños de tipo mini cooper, el cual se automatiza con diferentes componentes electronicos como los son drivers (L298N) y un Modulo Bluetooth(HC-05), el proyecto fue presentado en la EXPROY 2024 por el cual fui acredor del segundo lugar en categoria IoT
 
 ## Componentes utilizados
     -HC-05 
