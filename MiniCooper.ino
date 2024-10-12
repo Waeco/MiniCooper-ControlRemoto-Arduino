@@ -106,7 +106,7 @@ void loop() {
           servoMotor.write(90);
           break;
         default:
-          Serial.println("Invalid command");
+          Serial.println("Comando invalido");
       }
     }
     lastMillis = currentMillis;
